@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import LogOut from "../features/authentication/LogOut";
+import LogOut from "../features/authentication/Logout";
 import ButtonIcon from "./ButtonIcon";
 
 import { HiOutlineUser } from "react-icons/hi2";
