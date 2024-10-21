@@ -10,12 +10,12 @@ import Settings from "./pages/Settings";
 import Users from "./pages/Users";
 import Account from "./pages/Account";
 import GlobalStyles from "./styles/GlobalStyles";
-import Applayout from "./ui/Applayout";
 import { Toaster } from "react-hot-toast";
 import Booking from "./pages/Booking";
 import Checkin from "./pages/Checkin";
 import ProtectedRoute from "./ui/ProtectedRoute";
 import { DarkModeProvider } from "./context/DarkModeContext";
+import Applayout from "./ui/AppLayoutv-2";
 
 const queryClient = new QueryClient({
   defaultOptions: {
